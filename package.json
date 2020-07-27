@@ -30,9 +30,8 @@
     "raf": "^3.4.1",
     "rgbcolor": "^1.0.1",
     "stackblur-canvas": "^2.0.0",
-
     "d3-force": "^2.0.1",
-    "pdfmake": "0.1.36",
+    "pdfmake": "0.1.65",
     "polylabel": "^1.0.2",
     "tslib": "^1.9.3",
     "regression": "^2.0.1",
